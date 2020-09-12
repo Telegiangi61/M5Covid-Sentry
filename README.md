@@ -8,7 +8,8 @@ Download and parse json official data and show them in rolling mode the relevant
 Coding with a bounce of umicropython
 Press btn A to light OFF LCD and save battery when unnecessary
 Press btn C to light ON LCD
-Still search how put on deep sleep mode for > 30 secs caused by an issue on power management,
+
+Still search how put on deep sleep mode the Esp32 for > 30 secs caused by an issue on power management,
 after about 32secs  the IP5306 chip onboard M5Stack cores falls itself in idle mode if power load is < 45mA till next press of Power btn
 
 For a correct use load first the M5 Burner firmware at https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/software/M5Burner.zip
