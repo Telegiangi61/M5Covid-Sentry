@@ -1,4 +1,4 @@
-# 2020-AUG-01 M5 Covid-Sentry ver 1.0 by Telegiangi61 https://github.com/Telegiangi61/M5Covid-Mon under GNU General Public License v3.0
+# 2020-AUG-01 M5 Covid-Sentry ver 1.0 by Telegiangi61 https://github.com/Telegiangi61/M5Covid-Sentry under GNU General Public License v3.0
 # A simple project to monitor Covid-19 disease, based on M5Stack Core Grey, remotely connect to Italian Civil Protection Department github repository.
 # Download and parse json official data and show the relevant informations for Italy country. 
 
