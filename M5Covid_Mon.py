@@ -62,7 +62,7 @@ while True:
     lcd.clear()
     image0 = M5Img(1, -21, "res/italy4.jpg", True)
     title0 = M5Title(
-        title="M5STACK COVID-MON", x=70, fgcolor=0xFF0000, bgcolor=0xFFFFFF
+        title="M5 COVID-MON", x=70, fgcolor=0xFF0000, bgcolor=0xFFFFFF
     )
     lcd.print(str(time), 70, 25)
     lcd.print("Tot Pos:", 4, 60)
