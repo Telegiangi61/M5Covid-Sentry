@@ -44,7 +44,7 @@ def buttonC_wasPressed():
 btnC.wasPressed(buttonC_wasPressed)
 
 # connect to your wifi
-wifiCfg.doConnect("FRITZ!Box 7490", "24396387671371160915")
+wifiCfg.doConnect('YOUR SSID', 'YOUR PASSWD')
 
 # retrieve json data from official github of Italian Protezione Civile DPT. Data were updates daily after 17:00
 req = urequests.get(
