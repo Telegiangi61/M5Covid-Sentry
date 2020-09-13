@@ -1,4 +1,4 @@
-# M5Covid-Mon
+# M5Covid-Sentry
 
 2020-AUG-01
 M5 Covid-Sentry ver 1.3 by Telegiangi61 https://github.com/Telegiangi61/M5Covid-Sentry under GNU General Public License v3.0
