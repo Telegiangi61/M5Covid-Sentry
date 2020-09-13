@@ -27,7 +27,7 @@ while True:
 
   guariti = (ujson.loads((req.text)))[0]["dimessi_guariti"]
   decessi = (ujson.loads((req.text)))[0]["deceduti"]
-  lcd.print("M5STACK COVID-MON",20,0)
+  lcd.print("M5 COVID-MON",20,0)
 
   lcd.print(str(time),20,30)
   lcd.print("Tot Pos:",0,60)
